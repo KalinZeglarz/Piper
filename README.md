@@ -1,2 +1,2 @@
 # Piper
-Piper will be an AI based system, that will be able to propose automated routines suggestions based on real life events.
+Piper is an AI based system, that is able to propose automated routines suggestions based on real life events.
